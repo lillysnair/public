@@ -4,6 +4,8 @@ Git is a version control system often used for code, but can be used for any typ
 
 Git is included by default on Linux, and the binaries to download for Windows and OSX [can be found here](https://git-scm.com/downloads).
 
+For organizations using SSO, you must set up a [Personal Access Token (PAT)](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line) or [SSH keys](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+
 Git definitions include the following:
 
 - **Git Repository** (or just <u>repo</u>): The "folder" where all files are stored.
