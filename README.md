@@ -63,26 +63,10 @@ Note: after the first time, future adding + committing can be done via `git comm
 
 If you're ever confused or need information, `git status` is your friend.
 
-
-# GNS Repo Structure
-
-The following <u>Teams</u> and `Repos` are maintained under the [GNS team on Github](https://github.com/orgs/EliLillyCo/teams/gns):
-
-- <u>DCN</u>
-  - CB
-  - JD
-  - `GIS_ansible_automation`
-- <u>LAN</u>
-  - TZ
-  - DB
-- <u>WAN</u>
-  - PJ
-  - NG
-
 ## Links
 https://guides.github.com/introduction/flow/
 <br/>Matt Boren's guides: https://github.com/mtboren/GitLearning
-<br/> Create a non-lilly repo: https://help.github.com/en/articles/create-a-repo
+<br/> Create a normal repo: https://help.github.com/en/articles/create-a-repo
 <br/>SSH and git access: https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 <br/>Long for explanation of Step 5: Understanding the Workflow: https://gist.github.com/Chaser324/ce0505fbed06b947d962
 <br/>Simple intro to git if you don't like this one: http://archaeogeek.github.io/foss4gukdontbeafraid/index.html
