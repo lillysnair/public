@@ -28,7 +28,7 @@ You can then initialize the git repo locally, add a README, make your first comm
 
 ```sh
 git init
-git remote add origin https://github.com/USER/REPO
+git remote add origin https://github.com/lillysnair/public
 git pull origin master
 
 # make a file or move files into the directory you are working in
